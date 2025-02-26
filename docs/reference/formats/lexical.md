@@ -18,15 +18,12 @@ title: lexical
 
 The [Lexical JSON](https://lexical.dev/docs/concepts/serialization) format is a serialization format is a convenient for tools based on lexical like Ghost CMS. 
 
-
-
 ## Implementation
 
-Stencila support lossless, bi-directional conversion between Stencila documents and Lexical.
+Stencila support, bi-directional conversion between Stencila documents and Lexical.
 
 <!-- prettier-ignore-start -->
 <!-- CODEC-DOCS:START -->
-
 
 <!-- CODEC-DOCS:STOP -->
 <!-- prettier-ignore-end -->

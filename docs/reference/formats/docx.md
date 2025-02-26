@@ -14,7 +14,7 @@ title: docx
 
 ## Introduction
 
-**File Extension:** `.docx` - Used when converting or exporting Stencila documents to CBORZST format.
+**File Extension:** `.docx` - Used when converting or exporting Stencila documents to docx format.
 
 The [DOCX format](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/d683fa62-8042-4360-a824-b79045a6aabd) is a format useful for sharing documents with others in a format they may be familiar and comfortable with. 
 

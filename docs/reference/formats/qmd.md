@@ -16,9 +16,7 @@ title: qmd
 
 **File Extension:** `.qmd` - Used when converting or exporting Stencila documents to CBORZST format.
 
-The [Quarto Markdown](https://quarto.org/docs/authoring/markdown-basics.html) is a special flavor of Markdown supported by Stencila and used by those that use the Quarto document publishing system. 
-
-CBOR is "a data format whose design goals include the possibility of extremely small code size, 
+The [Quarto Markdown](https://quarto.org/docs/authoring/markdown-basics.html) is a special flavor of Markdown supported by Stencila and used by those that use the Quarto document publishing system.
 
 ## Implementation
 
