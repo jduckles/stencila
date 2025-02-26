@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 config:
   publish:
     ghost:
